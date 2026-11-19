@@ -58,8 +58,7 @@ An ongoing software project designed to support inventory control, employee assi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AstharoXs&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=AstharoXs&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub statistics"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstharoXs&layout=donut&langs_count=8&theme=midnight-purple&hide_border=true&cache_seconds=21600&v=2" alt="Most used languages"/>
 
