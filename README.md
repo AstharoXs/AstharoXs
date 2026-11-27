@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="AstharoXs Eternal Majesty Banner"/>
+<img src="./assets/avalon-header.svg" width="100%" alt="AstharoXs Eternal Majesty Banner"/>
 
 ### ✦ Exploring the universe, one line of code at a time ✦
 
@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="./assets/stars-divider.svg" width="100%" alt=""/>
+<img src="./assets/avalon-divider.svg" width="100%" alt=""/>
 
 ## ♔ About Me
 
@@ -26,7 +26,7 @@ developer = {
 - 🐈 Cat enthusiast.
 - ✨ Always curious and eager to learn.
 
-<img src="./assets/stars-divider.svg" width="100%" alt=""/>
+<img src="./assets/avalon-divider.svg" width="100%" alt=""/>
 
 ## ⚜ My Tech Stack
 
@@ -46,7 +46,7 @@ developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-14254A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-14254A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-<img src="./assets/stars-divider.svg" width="100%" alt=""/>
+<img src="./assets/avalon-divider.svg" width="100%" alt=""/>
 
 ## ✦ Featured Project
 
@@ -58,7 +58,7 @@ An ongoing software project designed to support inventory control, employee assi
 
 <!-- Add the project repository link when it becomes public. -->
 
-<img src="./assets/stars-divider.svg" width="100%" alt=""/>
+<img src="./assets/avalon-divider.svg" width="100%" alt=""/>
 
 ## ✨ GitHub Activity
 
@@ -75,7 +75,7 @@ An ongoing software project designed to support inventory control, employee assi
 </div>
 
 
-<img src="./assets/stars-divider.svg" width="100%" alt=""/>
+<img src="./assets/avalon-divider.svg" width="100%" alt=""/>
 
 ## ♔ Connect With Me
 
@@ -89,4 +89,4 @@ An ongoing software project designed to support inventory control, employee assi
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="The Road to Avalon"/>
+<img src="./assets/avalon-footer.svg" width="100%" alt="The Road to Avalon"/>
