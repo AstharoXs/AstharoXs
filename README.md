@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="./assets/header.svg" width="100%" alt="AstharoXs Event Horizon Banner"/>
@@ -65,11 +64,16 @@ An ongoing software project designed to support inventory control, employee assi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AstharoXs&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=09051C&title_color=AB78E8&icon_color=AB78E8&text_color=E8D5FF" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AstharoXs&show_icons=true&bg_color=09051C&title_color=AB78E8&text_color=E8D5FF&icon_color=AB78E8&hide_border=true" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstharoXs&layout=donut&langs_count=8&theme=midnight-purple&hide_border=true&cache_seconds=21600&bg_color=09051C&title_color=AB78E8&text_color=E8D5FF" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstharoXs&layout=compact&bg_color=09051C&title_color=AB78E8&text_color=E8D5FF&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=AstharoXs&background=09051C&border=09051C&stroke=663399&ring=AB78E8&fire=E8D5FF&currStreakNum=FFFFFF&sideNums=E8D5FF&currStreakLabel=AB78E8&sideLabels=AB78E8&dates=AAAAAA" alt="GitHub contribution streak"/>
 
 </div>
+
 
 <img src="./assets/stars-divider.svg" width="100%" alt=""/>
 
