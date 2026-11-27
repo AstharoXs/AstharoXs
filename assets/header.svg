@@ -25,7 +25,7 @@
     </pattern>
 
     <clipPath id="wave">
-      <path d="M0 0 H1000 V230 Q750 280 500 235 T0 240 Z"/>
+      <path d="M0 0 H1000 V233 Q750 265 500 250 T0 250 Z"/>
     </clipPath>
   </defs>
 
