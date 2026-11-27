@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09051C,50:663399,100:AB78E8&height=210&section=header&text=ASTHAROXS&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Explore&descAlignY=58&descSize=17" width="100%" alt="AstharoXs cosmic banner" />
+<img src="./assets/header.svg" width="100%" alt="AstharoXs Event Horizon Banner"/>
 
 ### ✦ Exploring the universe, one line of code at a time ✦
 
@@ -8,7 +9,7 @@
 
 </div>
 
----
+<img src="./assets/stars-divider.svg" width="100%" alt=""/>
 
 ## ☄️ About Me
 
@@ -25,6 +26,8 @@ developer = {
 - 💻 I enjoy building web applications and solving problems through code.
 - 🐈 Cat enthusiast.
 - ✨ Always curious and eager to learn.
+
+<img src="./assets/stars-divider.svg" width="100%" alt=""/>
 
 ## 🪐 My Tech Stack
 
@@ -44,6 +47,8 @@ developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-17112E?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-17112E?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
+<img src="./assets/stars-divider.svg" width="100%" alt=""/>
+
 ## 🚀 Featured Project
 
 ### 📦 Inventory & Personnel Management System
@@ -52,17 +57,21 @@ An ongoing software project designed to support inventory control, employee assi
 
 **Status:** In development
 
-<!-- Once your project's repository is public, add its real link here. -->
+<!-- Add the project repository link when it becomes public. -->
+
+<img src="./assets/stars-divider.svg" width="100%" alt=""/>
 
 ## ✨ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AstharoXs&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AstharoXs&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=09051C&title_color=AB78E8&icon_color=AB78E8&text_color=E8D5FF" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstharoXs&layout=donut&langs_count=8&theme=midnight-purple&hide_border=true&cache_seconds=21600&v=2" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstharoXs&layout=donut&langs_count=8&theme=midnight-purple&hide_border=true&cache_seconds=21600&bg_color=09051C&title_color=AB78E8&text_color=E8D5FF" alt="Most used languages"/>
 
 </div>
+
+<img src="./assets/stars-divider.svg" width="100%" alt=""/>
 
 ## 🌠 Connect With Me
 
@@ -76,4 +85,5 @@ An ongoing software project designed to support inventory control, employee assi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB78E8,50:663399,100:09051C&height=110&section=footer" width="100%" alt="Cosmic footer" />
+<img src="./assets/footer.svg" width="100%" alt="Cosmic footer"/>
+
