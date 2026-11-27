@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fallen-header.svg" width="100%" alt="AstharoXs Fallen King Banner"/>
+<img src="./assets/fallen-header-artoria.svg" width="100%" alt="AstharoXs Fallen King Banner"/>
 
 ### ✦ Even in darkness, curiosity remains ✦
 
