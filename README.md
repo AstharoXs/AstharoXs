@@ -76,4 +76,4 @@ An ongoing software project designed to support inventory control, employee assi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB78E8,50:663399,100:09051C&height=110&section=footer" width="100%" alt="Cosmic footer" />
+<img src="./assets/header.svg" width="100%" alt="AstharoXs Event Horizon Banner"/>
