@@ -1,1 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40"><defs><linearGradient id="g"><stop stop-color="#D4B675" stop-opacity="0"/><stop offset=".5" stop-color="#D4B675"/><stop offset="1" stop-color="#D4B675" stop-opacity="0"/></linearGradient></defs><path d="M0 20 H440 M560 20 H1000" stroke="url(#g)"/><g fill="#D4B675" text-anchor="middle" font-size="22"><text x="465" y="27">⚜</text><text x="500" y="27">♔</text><text x="535" y="27">✦</text><animate attributeName="opacity" values=".65;1;.65" dur="5s" repeatCount="indefinite"/></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 35"
+     width="1000" height="35">
+
+  <defs>
+    <linearGradient id="line">
+      <stop offset="0%" stop-color="#663399"
+            stop-opacity="0"/>
+      <stop offset="50%" stop-color="#AB78E8"/>
+      <stop offset="100%" stop-color="#663399"
+            stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M0 17.5 H460 M540 17.5 H1000"
+        stroke="url(#line)"
+        stroke-width="1.5"/>
+
+  <!-- Central star -->
+  <path d="M500 2 L504 13 L515 17.5
+           L504 22 L500 33 L496 22
+           L485 17.5 L496 13 Z"
+        fill="#AB78E8">
+
+    <animate attributeName="opacity"
+             values=".5;1;.5"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Small stars -->
+  <g fill="#E8D5FF">
+    <circle cx="475" cy="17.5" r="2.5">
+      <animate attributeName="opacity"
+               values="1;.2;1"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="525" cy="17.5" r="2.5">
+      <animate attributeName="opacity"
+               values=".2;1;.2"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+</svg>
