@@ -1,0 +1,69 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 120"
+     width="1000" height="120">
+
+  <defs>
+    <linearGradient id="space">
+      <stop offset="0%" stop-color="#050309"/>
+      <stop offset="50%" stop-color="#663399"/>
+      <stop offset="100%" stop-color="#09051C"/>
+    </linearGradient>
+
+    <pattern id="stars" width="137" height="83"
+             patternUnits="userSpaceOnUse">
+      <g fill="#E8D5FF">
+        <circle cx="12" cy="15" r="1" opacity=".6"/>
+        <circle cx="48" cy="35" r=".7" opacity=".8"/>
+        <circle cx="95" cy="18" r="1.2" opacity=".5"/>
+        <circle cx="122" cy="61" r=".8" opacity=".7"/>
+        <circle cx="64" cy="73" r=".6" opacity=".5"/>
+        <circle cx="25" cy="57" r=".9" opacity=".4"/>
+      </g>
+    </pattern>
+
+    <clipPath id="wave">
+      <path d="M0 25 Q250 -20 500 25
+               T1000 20 V120 H0 Z"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#wave)">
+
+    <rect width="1000" height="120"
+          fill="url(#space)"/>
+
+    <rect width="1000" height="120"
+          fill="url(#stars)"/>
+
+    <g fill="#E8D5FF">
+      <circle cx="130" cy="58" r="2">
+        <animate attributeName="opacity"
+                 values=".2;1;.2"
+                 dur="3s" repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="820" cy="83" r="2">
+        <animate attributeName="opacity"
+                 values="1;.2;1"
+                 dur="4s" repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="690" cy="42" r="1.5">
+        <animate attributeName="opacity"
+                 values=".3;1;.3"
+                 dur="5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <text x="500" y="75"
+          text-anchor="middle"
+          font-family="Verdana, Arial, sans-serif"
+          font-size="19"
+          letter-spacing="8"
+          fill="#E8D5FF">
+      ✦ KEEP EXPLORING ✦
+    </text>
+
+  </g>
+</svg>
